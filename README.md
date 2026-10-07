@@ -22,8 +22,7 @@ You only have to allow the source once.
 
 | Permission | Used for |
 | --- | --- |
-| Camera | Photographing your identity and qualification documents during professional verification |
-| Photos | Uploading your profile photo and documents |
+| Camera | Photographing your identity and qualification documents during professional verification (only when you tap to take a photo) |
 | Notifications | Booking confirmations, assignment updates and visit reminders |
 
 ## Requirements
